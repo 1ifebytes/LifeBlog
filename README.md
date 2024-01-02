@@ -1,2 +1,2 @@
 # LifeBlog
-My personal blog using issues and GitHub Actions
+My personal life blog using issues and GitHub Actions
